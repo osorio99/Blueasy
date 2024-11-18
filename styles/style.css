@@ -52,3 +52,19 @@ header nav a{
     margin: 10px 0 10px 0;
 }
 
+.section2 .box1{
+    /* height: 100px ; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.section2 .images{
+    display: flex;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 300px 300px 300px 300px;
+    grid-template-rows: 280px 280px;
+}
+
