@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 800px;
+    background-image: url('../assets/images/Fondo.png');
+}
+
+header div{
+    
+    height: 100px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgba(71, 81, 88, 0.775);
+    justify-content: space-around;
+}
+h1{
+    font-size: 30px;
+    color: aliceblue;
+}
+
+header nav a{
+    font-size: 20px;
+    text-decoration: none;
+    margin:10px ;
+    color: aliceblue;
+}
+
+
+.section1{
+    background-color: rgb(75, 202, 255);
+  
+}
+
+.container{
+ 
+    padding: 100px 200px 60px  ;
+    display: flex;
+    justify-content: space-around;
+}
+
+.box{
+    color: white;
+    width: 300px;
+    
+}
+
+.box h2{
+    margin: 10px 0 10px 0;
+}
+
