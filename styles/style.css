@@ -151,7 +151,7 @@ header nav a{
 }
 
 .section5{
-    background-image: url(/assets/images/bg_whoIs.png) ;
+    background-image: url(../assets/images/bg_whoIs.png) ;
    height: 500PX;
   
     color: white;
@@ -197,7 +197,7 @@ header nav a{
 
 
 .section7{
-    background-image: url(/assets/images/bg_contact.png);
+    background-image: url(../assets/images/bg_contact.png);
     height: 800px;
     color: white;
     
